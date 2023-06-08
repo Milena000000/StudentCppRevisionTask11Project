@@ -7,4 +7,4 @@ int task03(int, int, int);
 int task04(int, int);
 int task05(int, int, int);
 int task06(long long);
-int taskX(long long);
+bool taskX(long long);
